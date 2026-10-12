@@ -2,7 +2,7 @@
 
 # Hi, I'm Rakha 👋
 
-**Design Engineer @ [Maxxi Tani](https://maxxitani.id)** — bridging design systems and code 🌱
+**Product Designer @ [Maxxi Tani](https://maxxitani.id)** — bridging design systems and code 🌱
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Design+systems+%26+UI+kits;Figma+API+%26+library+analytics;Vue+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 
